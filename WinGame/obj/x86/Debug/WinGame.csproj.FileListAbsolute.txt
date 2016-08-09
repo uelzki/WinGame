@@ -1,0 +1,7 @@
+D:\TESTLANG\WinGame\WinGame\obj\x86\Debug\WinGame.Form1.resources
+D:\TESTLANG\WinGame\WinGame\obj\x86\Debug\WinGame.Properties.Resources.resources
+D:\TESTLANG\WinGame\WinGame\obj\x86\Debug\WinGame.csproj.GenerateResource.Cache
+D:\TESTLANG\WinGame\WinGame\bin\Debug\WinGame.exe
+D:\TESTLANG\WinGame\WinGame\bin\Debug\WinGame.pdb
+D:\TESTLANG\WinGame\WinGame\obj\x86\Debug\WinGame.exe
+D:\TESTLANG\WinGame\WinGame\obj\x86\Debug\WinGame.pdb
